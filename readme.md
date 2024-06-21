@@ -40,7 +40,7 @@ scikit-learn
 Isso garantirá que todas as bibliotecas necessárias sejam instaladas corretamente quando o usuário executar o comando:
 
 ```
-pip install -r requirements.txt.
+pip install -r requirements.txt
 ```
 
 ## Contribuição
